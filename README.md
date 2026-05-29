@@ -1,3 +1,3 @@
 # Student Performance Report
-
+**Link**: https://colab.research.google.com/drive/1vWr6K13AkSWKoIoeETYW7QAVec4ZnZkU
 This project explores the factors that influence student academic success using the UCI Student Performance Dataset. Through data analysis and machine learning, the project examines how variables such as study time, school absences, family support, and prior academic performance relate to whether students pass a mathematics course. Using Python, Pandas, and Scikit-learn, I performed exploratory data analysis, data wrangling, and predictive modeling on 395 student records across 30+ behavioral and demographic variables. Logistic Regression and Decision Tree models were evaluated using 5-fold stratified cross-validation. The final Logistic Regression model achieved **72.2% classification accuracy**, outperforming baseline classifiers and identifying past class failures as the strongest predictor of academic outcomes.
